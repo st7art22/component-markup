@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/st7art22/component-markup#readme",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "webpack": "^4.39.3"
   }
 }
