@@ -1,0 +1,22 @@
+{
+  "name": "component-markup",
+  "version": "1.0.0",
+  "description": "it's a markup for typical components using every project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/st7art22/component-markup.git"
+  },
+  "author": "Andrej Sobolev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/st7art22/component-markup/issues"
+  },
+  "homepage": "https://github.com/st7art22/component-markup#readme",
+  "dependencies": {
+    "gulp": "^4.0.2"
+  }
+}
